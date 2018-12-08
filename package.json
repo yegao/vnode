@@ -1,5 +1,5 @@
 {
-  "name": "vnode",
+  "name": "virtual-node",
   "version": "1.0.1",
   "description": "",
   "main": "rollup.config.js",
